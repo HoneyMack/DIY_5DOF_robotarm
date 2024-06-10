@@ -1,0 +1,9 @@
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\bin\Debug\GamePadTest.exe.config
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\bin\Debug\GamePadTest.exe
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\bin\Debug\GamePadTest.pdb
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\bin\Debug\SlimDX.dll
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\obj\Debug\GamePadTest.csprojAssemblyReference.cache
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\obj\Debug\GamePadTest.csproj.CoreCompileInputs.cache
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\obj\Debug\GamePadTest.csproj.CopyComplete
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\obj\Debug\GamePadTest.exe
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\GamePadTest\GamePadTest\obj\Debug\GamePadTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\bin\Debug\COMconnection_CUI.exe.config
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\bin\Debug\COMconnection_CUI.exe
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\bin\Debug\COMconnection_CUI.pdb
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\obj\Debug\COMconnection_CUI.csprojAssemblyReference.cache
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\obj\Debug\COMconnection_CUI.csproj.CoreCompileInputs.cache
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\obj\Debug\COMconnection_CUI.exe
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\obj\Debug\COMconnection_CUI.pdb
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\bin\Debug\SlimDX.dll
+C:\Users\tosim\Desktop\工作\ロボットアーム\Arduino\COMconnection_CUI\COMconnection_CUI\obj\Debug\COMconnection_CUI.csproj.CopyComplete

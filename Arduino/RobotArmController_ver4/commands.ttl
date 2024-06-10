@@ -1,0 +1,5 @@
+for n 1 10
+	send "G90 X100 Y0 Z0\n"
+	pause 5
+	send "G90 X200 Y0 Z0\n"	
+next

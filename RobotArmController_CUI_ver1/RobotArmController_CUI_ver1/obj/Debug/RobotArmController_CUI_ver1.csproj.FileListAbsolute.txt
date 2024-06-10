@@ -1,0 +1,9 @@
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\bin\Debug\RobotArmController_CUI_ver1.exe.config
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\bin\Debug\RobotArmController_CUI_ver1.exe
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\bin\Debug\RobotArmController_CUI_ver1.pdb
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\bin\Debug\SlimDX.dll
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\obj\Debug\RobotArmController_CUI_ver1.csprojAssemblyReference.cache
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\obj\Debug\RobotArmController_CUI_ver1.csproj.CoreCompileInputs.cache
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\obj\Debug\RobotArmController_CUI_ver1.csproj.CopyComplete
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\obj\Debug\RobotArmController_CUI_ver1.exe
+C:\Users\tosim\Desktop\工作\ロボットアーム\RobotArmController_CUI_ver1\RobotArmController_CUI_ver1\obj\Debug\RobotArmController_CUI_ver1.pdb
